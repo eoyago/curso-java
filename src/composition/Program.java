@@ -1,4 +1,4 @@
-package curso_programacao.composition;
+package composition;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,10 +6,10 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import curso_programacao.composition.entities.Department;
-import curso_programacao.composition.entities.HourContract;
-import curso_programacao.composition.entities.Worker;
-import curso_programacao.composition.entities.enums.WorkerLevel;
+import composition.entities.Department;
+import composition.entities.HourContract;
+import composition.entities.Worker;
+import composition.entities.enums.WorkerLevel;
 
 public class Program {
 	

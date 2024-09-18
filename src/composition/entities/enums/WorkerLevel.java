@@ -1,4 +1,4 @@
-package curso_programacao.composition.entities.enums;
+package composition.entities.enums;
 
 public enum WorkerLevel {
 

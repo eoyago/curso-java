@@ -1,4 +1,4 @@
-package curso_programacao.composition.entities;
+package composition.entities;
 
 public class Department {
 

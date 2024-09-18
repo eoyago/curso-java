@@ -1,10 +1,10 @@
-package curso_programacao.composition.entities;
+package composition.entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import curso_programacao.composition.entities.enums.WorkerLevel;
+import composition.entities.enums.WorkerLevel;
 
 public class Worker {
 
